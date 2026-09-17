@@ -1,8 +1,5 @@
 ### Hello!
 
-- 🔭 I’m currently working at Neo4j on the GraphQL team
-- 👯 I’m looking to collaborate on GraphQL security analysis tools!
-
 <!--
 **mjfwebb/mjfwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
